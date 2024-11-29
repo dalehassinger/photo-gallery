@@ -11,13 +11,22 @@
     <copyright>© Dale Hassinger</copyright>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://dalehassinger.github.io/photo-gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Tree Farm Pics</title>
+      <link>https://dalehassinger.github.io/photo-gallery/tree-farm-pics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dale@dalehassinger.com (Dale Hassinger)</author>
+      <guid>https://dalehassinger.github.io/photo-gallery/tree-farm-pics/</guid><media:content url="https://dalehassinger.github.io/photo-gallery/tree-farm-pics/1-IMG_5046_hudbfa61b4badc33c70f08960589115ec1_2620294_900x600_fill_q100_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://dalehassinger.github.io/photo-gallery/tree-farm-pics/1-IMG_5046_hudbfa61b4badc33c70f08960589115ec1_2620294_900x600_fill_q100_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Dale and Kathy&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Zoo America | Hershey, PA</title>
       <link>https://dalehassinger.github.io/photo-gallery/hershey-zoo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dale@dalehassinger.com (Dale Hassinger)</author>
-      <guid>https://dalehassinger.github.io/photo-gallery/hershey-zoo/</guid><media:content url="https://dalehassinger.github.io/photo-gallery/hershey-zoo/DSCF1086_hucfd5442a9593c68d5cbb431a20a9550b_1905708_900x600_fill_q90_catmullrom_smart1.JPG" type="image/jpeg"/>
+      <guid>https://dalehassinger.github.io/photo-gallery/hershey-zoo/</guid><media:content url="https://dalehassinger.github.io/photo-gallery/hershey-zoo/DSCF1086_hucfd5442a9593c68d5cbb431a20a9550b_1905708_900x600_fill_q100_catmullrom_smart1.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://dalehassinger.github.io/photo-gallery/hershey-zoo/DSCF1086_hucfd5442a9593c68d5cbb431a20a9550b_1905708_900x600_fill_q90_catmullrom_smart1.JPG&quot; /&gt;
-          &lt;p&gt;Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
+          &lt;img src=&quot;https://dalehassinger.github.io/photo-gallery/hershey-zoo/DSCF1086_hucfd5442a9593c68d5cbb431a20a9550b_1905708_900x600_fill_q100_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;p&gt;The Wild Of North America At Your Doorstep!&lt;/p&gt;
         </description></item>
   </channel>
 </rss>
