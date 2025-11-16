@@ -3,14 +3,189 @@
     <title>Photos</title>
     <link href="https://dalehassinger.github.io/photo-gallery/feed.xml" rel="self" />
     <link href="https://dalehassinger.github.io/photo-gallery" />
-    <updated>2025-11-16T11:47:07-05:00</updated>
+    <updated>2025-11-16T12:54:03-05:00</updated>
     <author>
         <name>Dale Hassinger</name>
     </author>
     <id>https://dalehassinger.github.io/photo-gallery</id>
 
     <entry>
-        <title>Dillsburg | 01/01/2025</title>
+        <title>Gettysburg</title>
+        <author>
+            <name>Dale Hassinger</name>
+        </author>
+        <link href="https://dalehassinger.github.io/photo-gallery/gettysburg/"/>
+        <id>https://dalehassinger.github.io/photo-gallery/gettysburg/</id>
+        <media:content url="https://dalehassinger.github.io/photo-gallery/media/posts/7/009.jpeg" medium="image" />
+            <category term="Gettysburg"/>
+
+        <updated>2025-11-16T12:36:24-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://dalehassinger.github.io/photo-gallery/media/posts/7/009.jpeg" alt="" />
+                    September 2024
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dalehassinger.github.io/photo-gallery/media/posts/7/009.jpeg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center">September 2024</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/001-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/001-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/002-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/002-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/003-2.jpeg" data-size="4000x2667"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/003-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/004-2.jpeg" data-size="2666x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/004-2-thumbnail.jpeg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/005-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/005-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/006-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/006-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/007-2.jpeg" data-size="4000x2249"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/007-2-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/008-2.jpeg" data-size="4000x2667"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/008-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/009-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/009-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/010-2.jpeg" data-size="4000x2667"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/010-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/011-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/011-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/012-2.jpeg" data-size="2666x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/012-2-thumbnail.jpeg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/013-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/013-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/014-2.jpeg" data-size="4000x2667"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/014-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/015-2.jpeg" data-size="4000x2667"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/015-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/016-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/016-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/017-2.jpeg" data-size="2857x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/017-2-thumbnail.jpeg" alt="" width="768" height="1075"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/018-2.jpeg" data-size="2666x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/018-2-thumbnail.jpeg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/019-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/019-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/020-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/020-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/021-2.jpeg" data-size="2666x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/021-2-thumbnail.jpeg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/022-2.jpeg" data-size="4000x2667"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/022-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/023-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/023-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/024-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/024-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/025-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/025-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/026-2.jpeg" data-size="2667x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/026-2-thumbnail.jpeg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/027-2.jpeg" data-size="2666x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/027-2-thumbnail.jpeg" alt="" width="768" height="1152"></a></figure>
+</div></div>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/001.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/001-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/002.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/002-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/003.jpeg" data-size="4000x2667"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/003-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/004.jpeg" data-size="2666x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/004-thumbnail.jpeg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/005.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/005-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/006.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/006-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/007.jpeg" data-size="4000x2249"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/007-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/008.jpeg" data-size="4000x2667"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/008-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/009.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/009-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/010.jpeg" data-size="4000x2667"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/010-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/011.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/011-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/012.jpeg" data-size="2666x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/012-thumbnail.jpeg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/013.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/013-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/014.jpeg" data-size="4000x2667"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/014-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/015.jpeg" data-size="4000x2667"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/7/gallery/015-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Peach Festival</title>
+        <author>
+            <name>Dale Hassinger</name>
+        </author>
+        <link href="https://dalehassinger.github.io/photo-gallery/peach-festival/"/>
+        <id>https://dalehassinger.github.io/photo-gallery/peach-festival/</id>
+        <media:content url="https://dalehassinger.github.io/photo-gallery/media/posts/6/002.jpeg" medium="image" />
+            <category term="Central PA"/>
+
+        <updated>2025-11-16T12:31:14-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://dalehassinger.github.io/photo-gallery/media/posts/6/002.jpeg" alt="" />
+                    2024
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dalehassinger.github.io/photo-gallery/media/posts/6/002.jpeg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center">2024</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/005.jpeg" data-size="2770x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/005-thumbnail.jpeg" alt="" width="768" height="1109"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/001.jpeg" data-size="4000x2252"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/001-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/002.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/002-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/003.jpeg" data-size="2857x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/003-thumbnail.jpeg" alt="" width="768" height="1075"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/004.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/004-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/006.jpeg" data-size="4000x2249"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/006-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/007.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/007-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/008.jpeg" data-size="4000x2249"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/008-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/009.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/009-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/010.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/010-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/011.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/011-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/012.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/012-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/013.jpeg" data-size="4000x2249"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/013-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/005-2.jpeg" data-size="2770x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/005-2-thumbnail.jpeg" alt="" width="768" height="1109"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/001-2.jpeg" data-size="4000x2252"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/001-2-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/002-2.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/002-2-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/003-2.jpeg" data-size="2857x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/003-2-thumbnail.jpeg" alt="" width="768" height="1075"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/004-2.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/004-2-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/006-2.jpeg" data-size="4000x2249"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/006-2-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/007-2.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/007-2-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/008-2.jpeg" data-size="4000x2249"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/008-2-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/009-2.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/009-2-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/010-2.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/010-2-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/011-2.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/011-2-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/012-2.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/012-2-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/013-2.jpeg" data-size="4000x2249"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/013-2-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/014.jpeg" data-size="2854x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/014-thumbnail.jpeg" alt="" width="768" height="1076"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/015.jpeg" data-size="4000x2250"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/015-thumbnail.jpeg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/016.jpeg" data-size="2855x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/016-thumbnail.jpeg" alt="" width="768" height="1076"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/017.jpeg" data-size="2857x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/6/gallery/017-thumbnail.jpeg" alt="" width="768" height="1075"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Tree Farm</title>
+        <author>
+            <name>Dale Hassinger</name>
+        </author>
+        <link href="https://dalehassinger.github.io/photo-gallery/tree-farm/"/>
+        <id>https://dalehassinger.github.io/photo-gallery/tree-farm/</id>
+        <media:content url="https://dalehassinger.github.io/photo-gallery/media/posts/5/001.jpeg" medium="image" />
+            <category term="Dale and Kathy"/>
+
+        <updated>2025-11-16T12:30:05-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dalehassinger.github.io/photo-gallery/media/posts/5/001.jpeg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/003.jpeg" data-size="3962x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/003-thumbnail.jpeg" alt="" width="768" height="775"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/001.jpeg" data-size="3680x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/001-thumbnail.jpeg" alt="" width="768" height="835"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/002.jpeg" data-size="2928x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/002-thumbnail.jpeg" alt="" width="768" height="1049"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/004.jpeg" data-size="2666x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/004-thumbnail.jpeg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/005.jpeg" data-size="3723x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/005-thumbnail.jpeg" alt="" width="768" height="825"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/006.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/006-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/007.jpeg" data-size="4000x2667"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/007-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/008.jpeg" data-size="4000x2813"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/008-thumbnail.jpeg" alt="" width="768" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/009.jpeg" data-size="2748x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/009-thumbnail.jpeg" alt="" width="768" height="1118"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/010.jpeg" data-size="2772x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/010-thumbnail.jpeg" alt="" width="768" height="1108"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/011.jpeg" data-size="3331x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/011-thumbnail.jpeg" alt="" width="768" height="923"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/012.jpeg" data-size="3170x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/012-thumbnail.jpeg" alt="" width="768" height="969"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/013.jpeg" data-size="4000x2988"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/013-thumbnail.jpeg" alt="" width="768" height="574"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/014.jpeg" data-size="3321x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/014-thumbnail.jpeg" alt="" width="768" height="925"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/015.jpeg" data-size="3157x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/015-thumbnail.jpeg" alt="" width="768" height="973"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/016.jpeg" data-size="2666x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/016-thumbnail.jpeg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/017.jpeg" data-size="3449x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/017-thumbnail.jpeg" alt="" width="768" height="891"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/018.jpeg" data-size="3099x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/018-thumbnail.jpeg" alt="" width="768" height="992"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/019.jpeg" data-size="4000x3740"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/019-thumbnail.jpeg" alt="" width="768" height="718"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/020.jpeg" data-size="3973x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/020-thumbnail.jpeg" alt="" width="768" height="773"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/021.jpeg" data-size="4000x3530"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/021-thumbnail.jpeg" alt="" width="768" height="678"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/022.jpeg" data-size="3582x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/022-thumbnail.jpeg" alt="" width="768" height="858"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/023.jpeg" data-size="3220x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/023-thumbnail.jpeg" alt="" width="768" height="954"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/024.jpeg" data-size="3823x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/024-thumbnail.jpeg" alt="" width="768" height="804"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/025.jpeg" data-size="3201x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/025-thumbnail.jpeg" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/026.jpeg" data-size="3079x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/026-thumbnail.jpeg" alt="" width="768" height="998"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/027.jpeg" data-size="4000x3869"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/027-thumbnail.jpeg" alt="" width="768" height="743"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/028.jpeg" data-size="3173x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/028-thumbnail.jpeg" alt="" width="768" height="968"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/029.jpeg" data-size="2666x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/5/gallery/029-thumbnail.jpeg" alt="" width="768" height="1152"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Dillsburg</title>
         <author>
             <name>Dale Hassinger</name>
         </author>
@@ -20,11 +195,17 @@
             <category term="Dillsburg"/>
 
         <updated>2025-11-16T11:40:13-05:00</updated>
-            <summary></summary>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://dalehassinger.github.io/photo-gallery/media/posts/4/001.jpeg" alt="" />
+                    January 2025
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://dalehassinger.github.io/photo-gallery/media/posts/4/001.jpeg" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
+                <p class="align-center">January 2025</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/001.jpeg" data-size="3356x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/001-thumbnail.jpeg" alt="" width="768" height="915"></a></figure>
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/002.jpeg" data-size="3669x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/002-thumbnail.jpeg" alt="" width="768" height="838"></a></figure>
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/003.jpeg" data-size="4000x2032"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/003-thumbnail.jpeg" alt="" width="768" height="390"></a></figure>
@@ -42,6 +223,23 @@
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/015.jpeg" data-size="3632x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/015-thumbnail.jpeg" alt="" width="768" height="846"></a></figure>
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/016.jpeg" data-size="4000x2617"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/016-thumbnail.jpeg" alt="" width="768" height="502"></a></figure>
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/017.jpeg" data-size="4000x1474"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/017-thumbnail.jpeg" alt="" width="768" height="283"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/001-2.jpeg" data-size="3356x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/001-2-thumbnail.jpeg" alt="" width="768" height="915"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/002-2.jpeg" data-size="3669x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/002-2-thumbnail.jpeg" alt="" width="768" height="838"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/003-2.jpeg" data-size="4000x2032"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/003-2-thumbnail.jpeg" alt="" width="768" height="390"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/004-2.jpeg" data-size="4000x1371"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/004-2-thumbnail.jpeg" alt="" width="768" height="263"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/005-2.jpeg" data-size="4000x1653"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/005-2-thumbnail.jpeg" alt="" width="768" height="317"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/006-2.jpeg" data-size="4000x3348"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/006-2-thumbnail.jpeg" alt="" width="768" height="643"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/007-2.jpeg" data-size="4000x2386"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/007-2-thumbnail.jpeg" alt="" width="768" height="458"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/008-2.jpeg" data-size="4000x2551"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/008-2-thumbnail.jpeg" alt="" width="768" height="490"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/009-2.jpeg" data-size="4000x2574"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/009-2-thumbnail.jpeg" alt="" width="768" height="494"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/010-2.jpeg" data-size="4000x1465"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/010-2-thumbnail.jpeg" alt="" width="768" height="281"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/011-2.jpeg" data-size="4000x3148"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/011-2-thumbnail.jpeg" alt="" width="768" height="604"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/012-2.jpeg" data-size="4000x2902"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/012-2-thumbnail.jpeg" alt="" width="768" height="557"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/013-2.jpeg" data-size="4000x3344"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/013-2-thumbnail.jpeg" alt="" width="768" height="642"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/014-2.jpeg" data-size="4000x2836"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/014-2-thumbnail.jpeg" alt="" width="768" height="545"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/015-2.jpeg" data-size="3632x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/015-2-thumbnail.jpeg" alt="" width="768" height="846"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/016-2.jpeg" data-size="4000x2617"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/016-2-thumbnail.jpeg" alt="" width="768" height="502"></a></figure>
+<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/017-2.jpeg" data-size="4000x1474"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/017-2-thumbnail.jpeg" alt="" width="768" height="283"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -105,7 +303,7 @@
         </content>
     </entry>
     <entry>
-        <title>Maine | Bay Harbor</title>
+        <title>Maine</title>
         <author>
             <name>Dale Hassinger</name>
         </author>
@@ -115,11 +313,17 @@
             <category term="Maine"/>
 
         <updated>2025-11-16T08:46:32-05:00</updated>
-            <summary></summary>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://dalehassinger.github.io/photo-gallery/media/posts/2/018.jpeg" alt="" />
+                    Bar Harbor | September 2025
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://dalehassinger.github.io/photo-gallery/media/posts/2/018.jpeg" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
+                <p class="align-center">Bar Harbor | September 2025</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/2/gallery/001-2.jpeg" data-size="4000x2097"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/2/gallery/001-2-thumbnail.jpeg" alt="" width="768" height="402"></a></figure>
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/2/gallery/003-2.jpeg" data-size="4000x2856"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/2/gallery/003-2-thumbnail.jpeg" alt="" width="768" height="548"></a></figure>
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/2/gallery/005-2.jpeg" data-size="2999x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/2/gallery/005-2-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
