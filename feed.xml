@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Photos</title>
+    <title>Dale Hassinger</title>
     <link href="https://dalehassinger.github.io/photo-gallery/feed.xml" rel="self" />
     <link href="https://dalehassinger.github.io/photo-gallery" />
-    <updated>2025-11-16T12:54:03-05:00</updated>
+    <updated>2025-11-16T14:18:45-05:00</updated>
     <author>
         <name>Dale Hassinger</name>
     </author>
@@ -18,6 +18,7 @@
         <id>https://dalehassinger.github.io/photo-gallery/gettysburg/</id>
         <media:content url="https://dalehassinger.github.io/photo-gallery/media/posts/7/009.jpeg" medium="image" />
             <category term="Gettysburg"/>
+            <category term="Central PA"/>
 
         <updated>2025-11-16T12:36:24-05:00</updated>
             <summary type="html">
@@ -193,6 +194,7 @@
         <id>https://dalehassinger.github.io/photo-gallery/dillsburg/</id>
         <media:content url="https://dalehassinger.github.io/photo-gallery/media/posts/4/001.jpeg" medium="image" />
             <category term="Dillsburg"/>
+            <category term="Central PA"/>
 
         <updated>2025-11-16T11:40:13-05:00</updated>
             <summary type="html">
@@ -204,7 +206,8 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://dalehassinger.github.io/photo-gallery/media/posts/4/001.jpeg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center">January 2025</p>
+                <p class="align-center"><span style="color: #000000;"><strong>January 2025</strong></span></p>
+<hr>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/001.jpeg" data-size="3356x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/001-thumbnail.jpeg" alt="" width="768" height="915"></a></figure>
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/002.jpeg" data-size="3669x4000"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/4/gallery/002-thumbnail.jpeg" alt="" width="768" height="838"></a></figure>
@@ -253,14 +256,22 @@
         <id>https://dalehassinger.github.io/photo-gallery/hershey-zoo/</id>
         <media:content url="https://dalehassinger.github.io/photo-gallery/media/posts/3/010.jpeg" medium="image" />
             <category term="Hershey"/>
+            <category term="Central PA"/>
 
         <updated>2025-11-16T10:24:55-05:00</updated>
-            <summary></summary>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://dalehassinger.github.io/photo-gallery/media/posts/3/010.jpeg" alt="" />
+                    October 2024
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://dalehassinger.github.io/photo-gallery/media/posts/3/010.jpeg" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/3/gallery/022.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/3/gallery/022-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+                <p class="align-center"><span style="color: #000000;"><strong>October 2024</strong></span></p>
+<hr>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="4">
+<p class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/3/gallery/022.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/3/gallery/022-thumbnail.jpeg" alt="" width="768" height="512"></a></p>
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/3/gallery/034.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/3/gallery/034-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/3/gallery/018.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/3/gallery/018-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/3/gallery/038.jpeg" data-size="4000x2666"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/3/gallery/038-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
@@ -316,13 +327,14 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://dalehassinger.github.io/photo-gallery/media/posts/2/018.jpeg" alt="" />
-                    Bar Harbor | September 2025
+                    Portland | Bar Harbor | September 2025
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://dalehassinger.github.io/photo-gallery/media/posts/2/018.jpeg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center">Bar Harbor | September 2025</p>
+                <p class="align-center"><span style="color: #000000;"><strong>Portland | Bar Harbor | September 2025</strong></span></p>
+<hr>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/2/gallery/001-2.jpeg" data-size="4000x2097"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/2/gallery/001-2-thumbnail.jpeg" alt="" width="768" height="402"></a></figure>
 <figure class="gallery__item"><a href="https://dalehassinger.github.io/photo-gallery/media/posts/2/gallery/003-2.jpeg" data-size="4000x2856"><img loading="lazy" src="https://dalehassinger.github.io/photo-gallery/media/posts/2/gallery/003-2-thumbnail.jpeg" alt="" width="768" height="548"></a></figure>
