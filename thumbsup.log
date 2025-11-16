@@ -1,4 +1,0 @@
-2025-11-16T13:05:34.700Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2025-11-16T13:05:34.700Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2025-11-16T13:05:34.700Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2025-11-16T13:05:34.700Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
