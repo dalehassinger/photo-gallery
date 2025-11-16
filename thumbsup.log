@@ -18,3 +18,57 @@
 2025-11-16T03:24:37.380Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
 2025-11-16T03:24:37.380Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
 2025-11-16T03:24:37.380Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2025-11-16T12:14:02.365Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2025-11-16T12:14:02.365Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2025-11-16T12:14:02.365Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2025-11-16T12:14:02.365Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2025-11-16T12:14:06.201Z thumbsup:error Error processing Maine 2025/DSCF4054.jpeg -> media/thumbs/Maine 2025/DSCF4054.jpeg
+2025-11-16T12:14:06.201Z thumbsup:error Error: Command failed: gm identify: Not a JPEG file: starts with 0x46 0x55 (/Users/dalehassinger/Documents/GitHub/thumbsup/photos/Maine 2025/DSCF4054.jpeg).
+2025-11-16T12:14:06.201Z thumbsup:error gm identify: Request did not return an image.
+2025-11-16T12:14:06.201Z thumbsup:error 
+2025-11-16T12:14:06.208Z thumbsup:error Error processing Maine 2025/DSCF4054.jpeg -> media/small/Maine 2025/DSCF4054.jpeg
+2025-11-16T12:14:06.208Z thumbsup:error Error: Command failed: gm identify: Not a JPEG file: starts with 0x46 0x55 (/Users/dalehassinger/Documents/GitHub/thumbsup/photos/Maine 2025/DSCF4054.jpeg).
+2025-11-16T12:14:06.208Z thumbsup:error gm identify: Request did not return an image.
+2025-11-16T12:14:06.208Z thumbsup:error 
+2025-11-16T12:14:06.215Z thumbsup:error Error processing Maine 2025/DSCF4054.jpeg -> media/large/Maine 2025/DSCF4054.jpeg
+2025-11-16T12:14:06.215Z thumbsup:error Error: Command failed: gm identify: Not a JPEG file: starts with 0x46 0x55 (/Users/dalehassinger/Documents/GitHub/thumbsup/photos/Maine 2025/DSCF4054.jpeg).
+2025-11-16T12:14:06.215Z thumbsup:error gm identify: Request did not return an image.
+2025-11-16T12:14:06.215Z thumbsup:error 
+2025-11-16T12:14:09.217Z thumbsup:error Error processing Maine 2025/DSCF3717 (1).jpeg -> media/thumbs/Maine 2025/DSCF3717 (1).jpeg
+2025-11-16T12:14:09.217Z thumbsup:error Error: Command failed: gm identify: Not a JPEG file: starts with 0x46 0x55 (/Users/dalehassinger/Documents/GitHub/thumbsup/photos/Maine 2025/DSCF3717 (1).jpeg).
+2025-11-16T12:14:09.217Z thumbsup:error gm identify: Request did not return an image.
+2025-11-16T12:14:09.217Z thumbsup:error 
+2025-11-16T12:14:09.225Z thumbsup:error Error processing Maine 2025/DSCF3717 (1).jpeg -> media/small/Maine 2025/DSCF3717 (1).jpeg
+2025-11-16T12:14:09.225Z thumbsup:error Error: Command failed: gm identify: Not a JPEG file: starts with 0x46 0x55 (/Users/dalehassinger/Documents/GitHub/thumbsup/photos/Maine 2025/DSCF3717 (1).jpeg).
+2025-11-16T12:14:09.225Z thumbsup:error gm identify: Request did not return an image.
+2025-11-16T12:14:09.225Z thumbsup:error 
+2025-11-16T12:14:09.229Z thumbsup:error Error processing Maine 2025/DSCF3717 (1).jpeg -> media/large/Maine 2025/DSCF3717 (1).jpeg
+2025-11-16T12:14:09.229Z thumbsup:error Error: Command failed: gm identify: Not a JPEG file: starts with 0x46 0x55 (/Users/dalehassinger/Documents/GitHub/thumbsup/photos/Maine 2025/DSCF3717 (1).jpeg).
+2025-11-16T12:14:09.229Z thumbsup:error gm identify: Request did not return an image.
+2025-11-16T12:14:09.229Z thumbsup:error 
+2025-11-16T12:14:12.721Z thumbsup:error Error processing Maine 2025/DSCF3407.jpeg -> media/thumbs/Maine 2025/DSCF3407.jpeg
+2025-11-16T12:14:12.721Z thumbsup:error Error: Command failed: gm identify: Not a JPEG file: starts with 0x46 0x55 (/Users/dalehassinger/Documents/GitHub/thumbsup/photos/Maine 2025/DSCF3407.jpeg).
+2025-11-16T12:14:12.721Z thumbsup:error gm identify: Request did not return an image.
+2025-11-16T12:14:12.721Z thumbsup:error 
+2025-11-16T12:14:12.733Z thumbsup:error Error processing Maine 2025/DSCF3407.jpeg -> media/small/Maine 2025/DSCF3407.jpeg
+2025-11-16T12:14:12.733Z thumbsup:error Error: Command failed: gm identify: Not a JPEG file: starts with 0x46 0x55 (/Users/dalehassinger/Documents/GitHub/thumbsup/photos/Maine 2025/DSCF3407.jpeg).
+2025-11-16T12:14:12.733Z thumbsup:error gm identify: Request did not return an image.
+2025-11-16T12:14:12.733Z thumbsup:error 
+2025-11-16T12:14:12.745Z thumbsup:error Error processing Maine 2025/DSCF3407.jpeg -> media/large/Maine 2025/DSCF3407.jpeg
+2025-11-16T12:14:12.745Z thumbsup:error Error: Command failed: gm identify: Not a JPEG file: starts with 0x46 0x55 (/Users/dalehassinger/Documents/GitHub/thumbsup/photos/Maine 2025/DSCF3407.jpeg).
+2025-11-16T12:14:12.745Z thumbsup:error gm identify: Request did not return an image.
+2025-11-16T12:14:12.745Z thumbsup:error 
+2025-11-16T12:14:13.466Z thumbsup:error Error processing Maine 2025/DSCF3541.jpeg -> media/thumbs/Maine 2025/DSCF3541.jpeg
+2025-11-16T12:14:13.466Z thumbsup:error Error: Command failed: gm identify: Not a JPEG file: starts with 0x46 0x55 (/Users/dalehassinger/Documents/GitHub/thumbsup/photos/Maine 2025/DSCF3541.jpeg).
+2025-11-16T12:14:13.466Z thumbsup:error gm identify: Request did not return an image.
+2025-11-16T12:14:13.466Z thumbsup:error 
+2025-11-16T12:14:13.478Z thumbsup:error Error processing Maine 2025/DSCF3541.jpeg -> media/small/Maine 2025/DSCF3541.jpeg
+2025-11-16T12:14:13.478Z thumbsup:error Error: Command failed: gm identify: Not a JPEG file: starts with 0x46 0x55 (/Users/dalehassinger/Documents/GitHub/thumbsup/photos/Maine 2025/DSCF3541.jpeg).
+2025-11-16T12:14:13.478Z thumbsup:error gm identify: Request did not return an image.
+2025-11-16T12:14:13.478Z thumbsup:error 
+2025-11-16T12:14:13.493Z thumbsup:error Error processing Maine 2025/DSCF3541.jpeg -> media/large/Maine 2025/DSCF3541.jpeg
+2025-11-16T12:14:13.493Z thumbsup:error Error: Command failed: gm identify: Not a JPEG file: starts with 0x46 0x55 (/Users/dalehassinger/Documents/GitHub/thumbsup/photos/Maine 2025/DSCF3541.jpeg).
+2025-11-16T12:14:13.493Z thumbsup:error gm identify: Request did not return an image.
+2025-11-16T12:14:13.493Z thumbsup:error 
+2025-11-16T12:14:14.251Z thumbsup:warn The following sources files were not processed:
+2025-11-16T12:14:14.251Z thumbsup:warn Maine 2025/DSCF4054.jpeg,Maine 2025/DSCF3717 (1).jpeg,Maine 2025/DSCF3407.jpeg,Maine 2025/DSCF3541.jpeg
