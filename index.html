@@ -6,14 +6,15 @@
       <meta name="viewport" content="width=device-width, user-scalable=no" />
       <title>Dale Hassinger | Photography - Home</title>
       <link rel="stylesheet" href="public/lightgallery/css/lightgallery.css" />
+      <link rel="stylesheet" href="public/lightslider/css/lightslider.min.css" />
       <link rel="stylesheet" href="public/videojs/video-js.min.css" />
       <link rel="stylesheet" href="public/lightgallery/css/lg-exif.min.css" />
       <link rel="stylesheet" href="public/core.css" />
       <link rel="stylesheet" href="public/theme.css" />
+      <link rel="stylesheet" href="public/justifiedgallery/justifiedGallery.min.css" />
   </head>
 
   <body>
-
     
     <div id="container">
     
@@ -31,52 +32,59 @@
     <a class="breadcrumb-item" href="index.html">Home</a>
       </nav>
     
+    
       <!--
         Nested albums, if any
       -->
-      <div id="albums">
-    <a href="Peach-Festival-2024.html" style="background-image: url('media/small/Peach%20Festival%202024/DSCF0093.jpeg')">
-            <div class="info">
-              <h3>Peach Festival 2024</h3>
-              <div class="summary">17 photos</div>
-              <div class="date">10 Aug 2024 - 10 Aug 2024</div>
-            </div>
-          </a><a href="Gettysburg-September-2024.html" style="background-image: url('media/small/Gettysburg%20September%202024/DSCF0365.jpeg')">
-            <div class="info">
-              <h3>Gettysburg September 2024</h3>
-              <div class="summary">27 photos</div>
-              <div class="date">14 Sep 2024 - 14 Sep 2024</div>
-            </div>
-          </a><a href="Hershey-Zoo.html" style="background-image: url('media/small/Hershey%20Zoo/DSCF1086.JPG')">
-            <div class="info">
-              <h3>Hershey Zoo</h3>
-              <div class="summary">38 photos</div>
-              <div class="date">19 Oct 2024 - 19 Oct 2024</div>
-            </div>
-          </a><a href="Tree-Farm.html" style="background-image: url('media/small/Tree%20Farm/1-IMG_5046.jpg')">
-            <div class="info">
-              <h3>Tree Farm</h3>
-              <div class="summary">29 photos</div>
-              <div class="date">02 Nov 2024 - 19 Nov 2024</div>
-            </div>
-          </a><a href="Dillsburg-PA-2025-01-01.html" style="background-image: url('media/small/Dillsburg%20PA%202025-01-01/DSCF2262.jpeg')">
-            <div class="info">
-              <h3>Dillsburg PA 2025-01-01</h3>
-              <div class="summary">17 photos</div>
-              <div class="date">01 Jan 2025 - 01 Jan 2025</div>
-            </div>
-          </a><a href="Maine-2025.html" style="background-image: url('media/small/Maine%202025/DSCF3058.jpeg')">
-            <div class="info">
-              <h3>Maine 2025</h3>
-              <div class="summary">25 photos</div>
-              <div class="date">28 Sep 2025 - 29 Sep 2025</div>
-            </div>
-          </a>  </div>
+      <div id="albums" class="justified-gallery">
+            <a href="Peach-Festival-2024.html">
+              <img src="media/small/Peach%20Festival%202024/DSCF0093.jpeg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>Peach Festival 2024</h3>
+                <div class="summary">17 photos</div>
+              </div>
+            </a>
+            <a href="Gettysburg-September-2024.html">
+              <img src="media/small/Gettysburg%20September%202024/DSCF0365.jpeg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>Gettysburg September 2024</h3>
+                <div class="summary">27 photos</div>
+              </div>
+            </a>
+            <a href="Hershey-Zoo.html">
+              <img src="media/small/Hershey%20Zoo/DSCF1086.JPG" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>Hershey Zoo</h3>
+                <div class="summary">38 photos</div>
+              </div>
+            </a>
+            <a href="Tree-Farm.html">
+              <img src="media/small/Tree%20Farm/1-IMG_5046.jpg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>Tree Farm</h3>
+                <div class="summary">29 photos</div>
+              </div>
+            </a>
+            <a href="Dillsburg-PA-2025-01-01.html">
+              <img src="media/small/Dillsburg%20PA%202025-01-01/DSCF2262.jpeg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>Dillsburg PA 2025-01-01</h3>
+                <div class="summary">17 photos</div>
+              </div>
+            </a>
+            <a href="Maine-2025.html">
+              <img src="media/small/Maine%202025/DSCF3058.jpeg" alt="">
+              <div class="caption" style="display: inline-block">
+                <h3>Maine 2025</h3>
+                <div class="summary">25 photos</div>
+              </div>
+            </a>
+      </div>
     
       <!--
         All photos and videos
       -->
-      <ul id="media" class="clearfix">
+      <ul id="media" class="clearfix justified-gallery">
       </ul>
     
       <!--
@@ -86,7 +94,6 @@
       <!--
         Zip file link
       -->
-    
     
       <!--
         Optional footer
@@ -103,11 +110,13 @@
     <script src="public/videojs/video.min.js"></script>
     <!-- LightGallery -->
     <script src="public/lightgallery/js/lightgallery.js"></script>
+    <script src="public/lightslider/js/lightslider.min.js"></script>
     <script src="public/lightgallery/js/lg-autoplay.js"></script>
     <script src="public/lightgallery/js/lg-pager.js"></script>
     <script src="public/lightgallery/js/lg-thumbnail.js"></script>
     <script src="public/lightgallery/js/lg-video.js"></script>
     <script src="public/lightgallery/js/lg-exif.min.js"></script>
+    <script src="public/justifiedgallery/jquery.justifiedGallery.min.js"></script>
 
     <script>
       $(document).ready(function() {
@@ -117,10 +126,52 @@
           loop : false,
           download: true,
           counter: true,
-          videojs: true
+          videojs: true,
+          exThumbImage: 'data-exthumbimage',
+        });
+
+        // Init justified gallery for albums
+        $("#albums").justifiedGallery({
+          margins: 10,
+          rowHeight: 300,
+          maxRowHeight: 325,
+        });
+
+        // Init justified gallery for photos
+        $("#media").justifiedGallery({
+          selector: '.albumList',
+          waitThumbnailsLoad: false,
+          margins: 10,
+          rowHeight: 250,
+          maxRowHeight: 275,
         });
       });
     </script>
+
+      <script id="slider-js" data-interval="">
+        $(document).ready(function () {
+          let waitTime = 1000;
+
+          try {
+            waitTime = parseInt($("#slider-js").data("interval"));
+          } catch (e) {
+            console.error("Invalid speed value for slider: " + waitTime + "\n" + e);
+          }
+
+          $("#lightSlider").lightSlider({
+            auto: true,
+            loop: true,
+            item: 1,
+            gallery: true,
+            pause: waitTime,
+            onSliderLoad: (el) => {
+              el.lightGallery({
+                selector: "#lightSlider li"
+              })
+            }
+          });
+        });
+      </script>
 
 
   </body>
