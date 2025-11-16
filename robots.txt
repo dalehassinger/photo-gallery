@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dalehassinger.github.io/photo-gallery/sitemap.xml
